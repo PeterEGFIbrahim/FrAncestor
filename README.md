@@ -146,7 +146,7 @@ To ensure all dependencies are correctly installed and avoid conflicts follow th
 
 ### Example Command
    ```
-FrAncestor -c 10 -dir ./ -0D -1D -r 3 -Halogen 0,3 -2D -3D 10 -4D -5D targets/target_hotspots_FMOPhore.txt -min 3 -T 1.1 -6D -R_lib Reactions/Reactions_lib_std.smi -RxS 1 -cs ChemicalSpace/Francestor_filtered_797_std.smi -sss 0.1 -s 200 -fp maccs 0.5 pharm2d 0.5
+FrAncestor -c 10 -dir ./ -0D -1D -r 3 -Halogen 0,3 -2D -3D 10 -4D -5D targets/target_hotspots_FMOPhore.txt -min 3 -T 1.1 -6D -R_lib Reactions/Reactions_lib_std.smi -RxS 1 -MGT ChemicalSpace/Francestor_filtered_797_std.smi -sss 0.1 -s 200 -fp maccs 0.5 pharm2d 0.5
    ```
 ### Help
 To view the full list of options and their usage:
