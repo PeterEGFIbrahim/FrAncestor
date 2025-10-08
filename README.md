@@ -1,4 +1,4 @@
-# FrAncestor V.0.1 Fragment Screening Library Design
+# FrAncestor A Multi-Dimensional Toolkit for Fragment Library Design and Optimisation
 
 ---
 
