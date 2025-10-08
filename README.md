@@ -18,7 +18,7 @@ Each dimension captures a distinct layer of molecular insight:
 - **4th-D**: Performs ligand-pharmacophore virtual screening.
 - **5th-D**: Enables ligand–target virtual screening using target hotspot information.
 - **6th-D**: Applies reaction vector-based enumeration for synthesizable molecule generation.
-- **Near-Neighbour**: FrAncestor also supports Near-Neighbour Search for rapid chemical space navigation—enabling fast identification of structurally similar compounds within large Chemical Spaces.
+- **Molecular Genalogy Tree (MGT)**: FrAncestor also supports **Near-Neighbour** Search for rapid chemical space navigation—enabling fast identification of structurally similar compounds within large Chemical Spaces.
 FrAncestor offers a modular, multi-layered approach to accelerate early-stage drug discovery and fragment library design.
 ---
 
