@@ -67,7 +67,7 @@ conda activate FrAncestor_env
 #                                             : Reagents library (Default Enamine Building blocks .smi file)
 #         -RxS        --Rx_Steps              : Number of reaction cycles (Reaction-steps).
 #     --------------------------------------------------------------------------------------------------------------------------------------
-#     -cs         --chemicalspace         : Path to chemical space molecules file (finding Near-Neighbours) 
+#     -MGT        --chemicalspace         : Path to chemical space molecules file (finding Near-Neighbours) 
 #                                             : One or more files used as chemical space reference (must differ from input files)
 #         -fp         --similarity_fp_tree    : Fingerprint names followed by thresholds; pharm2d 0.5 maccs 0.2 morgan 0.1 torsion 0.1 atompairs 0.1 or avalon 0.1
 #                                             : e.g. -fp maccs 0.5 pharm2d 0.5 morgan 0.1 torsion 0.1 atompairs 0.1 avalon 0.1 ... 
