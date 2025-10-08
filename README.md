@@ -134,7 +134,7 @@ To ensure all dependencies are correctly installed and avoid conflicts follow th
          -R_lib,     --Rx_lib                : Reagents library (Default Enamine Building blocks .smi file)
          -RxS        --Rx_Steps              : Number of reaction cycles (Reaction-steps).
      --------------------------------------------------------------------------------------------------------------------------------------
-     -cs         --chemicalspace         : Path to chemical space molecules file (finding Near-Neighbours) 
+     -MGT        --chemicalspace         : Path to chemical space molecules file (finding Near-Neighbours) 
                                              : One or more files used as chemical space reference (must differ from input files)
          -fp         --similarity_fp_tree    : Fingerprint names followed by thresholds; pharm2d 0.5 maccs 0.2 morgan 0.1 torsion atompairs or avalon
                                              : e.g. -fp maccs 0.5 pharm2d 0.5 morgan 0.8 morgan 0.3 ... 
