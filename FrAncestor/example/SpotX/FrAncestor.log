@@ -1,0 +1,6 @@
+Generating descriptors: SpotX_descriptors.txt
+Applying descriptor filtering...
+ChemicalSpace already in 3D: /gpfs/uod-scale-01/cluster/ddu/pibrahim001/Work/FraGrow/1_FrAncestor/V0.2_shared/FrAncestor/example/SpotX/D3/SpotX_std_scaffold.sdf
+ChemicalSpace already in 3D: /gpfs/uod-scale-01/cluster/ddu/pibrahim001/Work/FraGrow/1_FrAncestor/V0.2_shared/FrAncestor/example/SpotX/D3/SpotX_std_scaffold.sdf
+ChemicalSpace already prepared... D4 path: /gpfs/uod-scale-01/cluster/ddu/pibrahim001/Work/FraGrow/1_FrAncestor/V0.2_shared/FrAncestor/example/SpotX/D4/SpotX_std_scaffold_reps.txt
+Processing chunk 1 with 212 lines...
